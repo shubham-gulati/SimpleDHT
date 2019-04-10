@@ -1,0 +1,4 @@
+#Wed Apr 10 11:18:45 EDT 2019
+base.0=/Users/shubham/Documents/UB_Spring_2019/Distributed_Systems/SimpleDht/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
